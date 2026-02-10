@@ -10,7 +10,7 @@ function App() {
   
       <title>Mon Portfolio</title>
       <p> Vous découvrirez ici mes projets.</p>
-      <img src="https://i.pinimg.com/736x/ba/97/24/ba9724a865589802d21f92fde3143ef4.jpg" alt="image lien externe."width="500px" />
+      <img src="https://i.pinimg.com/736x/ba/97/24/ba9724a865589802d21f92fde3143ef4.jpg" alt="image lien externe."width="200px" />
       <button>Me contacter</button>
       <Card nom ="Alice" role="Admin" />
       <div className='TeamMember'>
