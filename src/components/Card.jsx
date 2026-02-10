@@ -1,4 +1,4 @@
-function Card() {
+function Card(props) {
     return <>
     <h2>{props.nom}</h2>
     <p>{props.role}</p>
